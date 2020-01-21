@@ -1,5 +1,5 @@
 # commute
 
-contact us
+[contact us](https://commute.cc/contact-us/)
 
-privacy policy
+[privacy policy](https://commute.cc/privacy-policy/)
