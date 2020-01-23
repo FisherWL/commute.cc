@@ -1,4 +1,4 @@
-# Realtime DC Metro for Commuter
+# DC Commuter - Metro Realtime
 
 [contact us](https://commute.cc/contact-us/)
 
